@@ -27,3 +27,11 @@ Once this is done, open a web browser and go to http://localhost:8501
 # Tests
 
 As I am already a bit more than 3 hours in, I decided not to bother too much with proper testing.
+
+# A few idea of improvements
+* The data could be stored in a SQL or PostgreSQL database. This database could be linked with the actual mailbox of the PO.
+* Being able to select mails with keywords (for instance all mail coming from a important client X).
+* In the docker-compose.yml file, I added a gpu resource. I did not checked if the LLM is actually running on my gpu or not, would be nice to make sure it is.
+* Make the installation of mistral automated in the ollama Containerfile.
+* The prompts for the LLM could be stored in a cleaner way (here they are directly embedded in the python script), and we could do proper prompt templating with langchain.
+* Would be nice to be able to save the outputs we generate in text files.
