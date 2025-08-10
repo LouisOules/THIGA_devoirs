@@ -1,0 +1,22 @@
+{
+  "email_1": "Subject: Mobile App Loading Slowly\nHi team,\nLately, the mobile app takes almost a minute to open large projects. Any updates planned to speed this up?\nThanks,\nMarina",
+  "email_2": "Subject: Missing Zapier Integration\nHey,\nIt’d be great if your platform could connect with Zapier so we can automate tasks with other tools we use.\nBest,\nOmar",
+  "email_3": "Subject: Bug in Gantt Chart Dates\nHi,\nWhen I move a task on the Gantt chart, the dates don’t update for dependent tasks. Could you check?\nCheers,\nElena",
+  "email_4": "Subject: Slow Mobile App Again\nHi there,\nJust following up on the mobile app slowness. It’s especially bad when switching between boards.\nRegards,\nLeo",
+  "email_5": "Subject: Custom Fields Request\nHello,\nWould you consider adding custom fields to tasks? This would help us track more project-specific data.\nThanks,\nRachel",
+  "email_6": "Subject: Gantt Chart Bug Still There\nHi,\nThe Gantt chart dependency issue from last month is still happening, even after the last update. Any ETA on a fix?\nRegards,\nDan",
+  "email_7": "Subject: Feature Idea – Task Templates\nHi,\nIt’d be super helpful if we could save certain task formats as templates instead of recreating them every time.\nThanks,\nAlex",
+  "email_8": "Subject: Mobile App Performance Issue\nHey team,\nThe mobile app keeps freezing when adding comments to tasks. Could be related to the slowness others mentioned.\nBest,\nPriya",
+  "email_9": "Subject: Integration Request\nHi,\nCould you add a native integration with Google Drive for file attachments? Would save us a lot of clicks.\nCheers,\nTom",
+  "email_10": "Subject: Great Update + Small Bug\nHi team,\nLoving the new dashboard view! Only issue: the task completion rate graph sometimes doesn’t load unless I refresh.\nThanks,\nSofia",
+  "email_11": "Subject: Mobile App Login Delay\nHi,\nLogging into the mobile app takes over 30 seconds lately. Could you look into this?\nThanks,\nHannah",
+  "email_12": "Subject: Gantt Chart Printing Issue\nHello,\nWhen exporting the Gantt chart as PDF, the dates get misaligned. Is this a known bug?\nRegards,\nPhil",
+  "email_13": "Subject: More Notification Options\nHi team,\nCould you add custom notification settings? I get too many alerts for minor changes.\nBest,\nSamantha",
+  "email_14": "Subject: Mobile App Freezing Again\nHi there,\nThe app froze twice today when I tried uploading images to a task. Seems related to the slowness others reported.\nThanks,\nNico",
+  "email_15": "Subject: Search Not Working Properly\nHey,\nThe search bar isn’t returning results for archived projects. Could you fix that?\nCheers,\nVictor",
+  "email_16": "Subject: Integration with Slack\nHi,\nA Slack integration would make it easier for us to update tasks without switching platforms.\nThanks,\nKara",
+  "email_17": "Subject: Gantt Chart Dependencies Wrong\nHello,\nWhen I add a new dependency, sometimes the linked task shifts to the wrong date.\nBest,\nPaula",
+  "email_18": "Subject: Better Offline Mode\nHi team,\nAny chance of improving offline mode on the mobile app? Right now it loses unsynced changes.\nRegards,\nMatt",
+  "email_19": "Subject: Duplicate Notifications\nHey,\nI keep getting duplicate push notifications for the same task update.\nThanks,\nIris",
+  "email_20": "Subject: Mobile App Dark Mode\nHi,\nCould you add dark mode for the mobile app? Would make it easier to work at night.\nCheers,\nEthan"
+}
